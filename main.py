@@ -6,3 +6,6 @@ class Home:
     def color_room (self, room_number):
         pass
 
+class Car:
+    def __init__(self):
+        pass
